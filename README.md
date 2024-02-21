@@ -1,0 +1,1 @@
+This project is a basic website designed to test my skills with git 
