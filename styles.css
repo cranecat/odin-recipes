@@ -1,0 +1,20 @@
+*{
+  text-align: center;
+}
+div {
+    color: white;
+    background-color: rgb(73, 15, 121);
+  }
+  
+  p {
+    color: red;
+  }
+  a:link{
+    color:aliceblue;
+  }
+  a:visited{
+    color:aliceblue;
+  }
+  a:hover{
+    color:aquamarine;
+  }
